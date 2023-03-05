@@ -1,0 +1,21 @@
+
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.class{
+background-image: url(gm.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+}
+ .class video{
+	margin-top: 25px;
+	width: 500px;
+	height: auto;
+	
+
+}
+
